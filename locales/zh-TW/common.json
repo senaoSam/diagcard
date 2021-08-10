@@ -1,0 +1,55 @@
+{
+  "NAME": "姓名",
+  "CREATE": "建立",
+  "ORG_CREATE": "建立一個新的組織",
+  "NET_CREATE": "建立一個新的網路",
+  "MENU": {
+    "MANAGE": "管理",
+    "DASHBOARD": "統計面板",
+    "DEVICES": "裝置狀態",
+    "CLIENTS": "用戶分析",
+    "TOPOLOGY": "階層圖",
+    "MAPS": "地圖",
+    "MESH": "網狀網路",
+
+    "CONF": "設定",
+    "WIRELESS": "無線設定",
+    "SSID": "SSID設定",
+    "RADIO": "Radio設定",
+    "SPLASH": "認證設定",
+
+    "SWITCH": "有線設定",
+
+    "GENERAL": "一般設定",
+    "NETWORK": "網路設定",
+    "GUESTACC": "用戶管理",
+
+    "ANALYSIS": "分析",
+    "LOGS": "紀錄",
+
+    "ORG": "組織管理",
+    "OVERVIEW": "網路管理",
+    "INVENTORY": "註冊裝置",
+    "TEAM": "組織成員"
+  },
+  "DASHBOARD": {
+    "THROUGHPUT": "傳輸量",
+    "TOTAL": "總傳輸速率",
+    "DOWNLOAD": "下載速率",
+    "UPLOAD": "上傳速率",
+    "CLIENTS": "使用者",
+    "TRAFFIC": "流量",
+    "PERIOD": {
+      "DAY": "天",
+      "WEEK": "周",
+      "MONTH": "月"
+    },
+    "TOP": "{{category}}排行榜",
+    "ACCESS_POINTS": "無線基地台",
+    "CLIENT": "使用者",
+    "SSIDS": "SSID",
+    "APPLICATIONS": "應用程式",
+    "DEVICE_OSS": "作業系統",
+    "NO_DATA": "沒有資料可顯示"
+  }
+}

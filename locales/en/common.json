@@ -1,0 +1,55 @@
+{
+  "NAME": "Name",
+  "CREATE": "Create",
+  "ORG_CREATE": "New Orgnization",
+  "NET_CREATE": "Create a New Network",
+  "MENU": {
+    "MANAGE": "MANAGE",
+    "DASHBOARD": "Dashboard",
+    "DEVICES": "Devices",
+    "CLIENTS": "Clients",
+    "TOPOLOGY": "Topology",
+    "MAPS": "Maps",
+    "MESH": "Mesh",
+
+    "CONF": "CONFIGURE",
+    "WIRELESS": "Wireless",
+    "SSID": "SSID",
+    "RADIO": "Radio Settings",
+    "SPLASH": "Splash Page",
+
+    "SWITCH": "Switch",
+
+    "GENERAL": "General",
+    "NETWORK": "Network Config",
+    "GUESTACC": "User Management",
+
+    "ANALYSIS": "ANALYSIS",
+    "LOGS": "Logs",
+
+    "ORG": "Organization",
+    "OVERVIEW": "Overview",
+    "INVENTORY": "Inventory",
+    "TEAM": "Team Member"
+  },
+  "DASHBOARD": {
+    "THROUGHPUT": "THROUGHPUT",
+    "TOTAL": "Total",
+    "DOWNLOAD": "Download",
+    "UPLOAD": "Upload",
+    "CLIENTS": "Clients",
+    "TRAFFIC": "Traffic",
+    "PERIOD": {
+      "DAY": "Day",
+      "WEEK": "Week",
+      "MONTH": "Month"
+    },
+    "TOP": "TOP {{category}}",
+    "ACCESS_POINTS": "ACCESS POINTS",
+    "CLIENT": "CLIENTS",
+    "SSIDS": "SSIDS",
+    "APPLICATIONS": "APPLICATIONS",
+    "DEVICE_OSS": "DEVICE OPERATING SYSTEMS",
+    "NO_DATA": "No data to display"
+  }
+}
